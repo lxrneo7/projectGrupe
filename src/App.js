@@ -42,6 +42,7 @@ function App() {
         <Route path="/adminMain" element={<AdminMain />} />
       </Routes>
       <Footer />
+  //
     </div>
   );
 }
