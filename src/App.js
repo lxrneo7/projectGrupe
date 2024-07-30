@@ -17,6 +17,7 @@ import Starts from "./components/pages/Starts/Starts";
 import Shoes from "./components/pages/Shoes/Shoes";
 import AdminPage from "./components/AdminPage/Admin";
 import AdminMain from "./components/AdminPage/AdminMain";
+//
 
 function App() {
   return (
